@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonLabNew</string>
+    <string name="display_all_books_link_btn_text">Display all books</string>
+</resources>
